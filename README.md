@@ -5,7 +5,7 @@ Die Datenbasis ist die zweite Welle des österreichischen Values in Crisis Panel
 
 
 ## STATA DoFiles
-Die STATA DoFiles befinden sich im Ordner "DoFiles".
+Die STATA DoFiles sind in ihrer Reihenfolge durchnummeriert. DoFile "01 Aufbereitung" bereitet den Datensatz für alle folgenden Analysen auf. Daraufhin können die Skalenvalidierungen der Differential- und Likert-Version der Skala (Kapitel 4.2.4.3) mit den DoFiles 02 und 03 nachvollzogen werden. File 04 beinhaltet die Erstellung der sozialen Lagen (Kapitel 5). Zuletzt sind die Analysen aus Kapitel 7 mit dem Code aus DoFile 05 durchgeführt.
 
 
 ## Koordinaten der multiplen Korrespondenzanalyse (Kapitel 5 der Dissertation)
